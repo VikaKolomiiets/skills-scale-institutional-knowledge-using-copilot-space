@@ -18,6 +18,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- UX Designer: designs user-centered interfaces and workflows; conducts user research.
+- Technical Writer: authors and maintains documentation, guides, and release notes.
+- Security Engineer: identifies and mitigates security risks; leads incident response.
+- Operations Lead: manages CI/CD pipelines, deployments, and environment health.
+- Support Specialist: triages user issues and relays feedback to the product team.
+- Data Analyst: tracks KPIs, builds dashboards, and provides data-driven insights.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
